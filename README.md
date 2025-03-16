@@ -8,7 +8,7 @@ Uses the Edge policies feature.
 ## Usage
 Download and run the script:
 ```sh
-curl -fsSL (enter url here) | bash
+curl -fsSL https://github.com/rev4324/edge-debloat-macos/blob/main/edge_debloat.sh | bash
 ```
 
 ## Back to defaults
